@@ -1,4 +1,4 @@
-Total size in bytes: 17977
+Total size in bytes: 17967
 Files list:
 -------------
 challenge_solution.py
